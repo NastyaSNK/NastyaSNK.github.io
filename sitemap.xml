@@ -21,96 +21,44 @@
   </url>
   
   <url>
-    <loc>https://example.com/projects/contributions/deploy-triggers/</loc>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
     <loc>https://example.com/publications/alldaydevops/</loc>
     <lastmod>2016-11-08T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://example.com/projects/contributions/shields-docker/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
+    <loc>https://example.com/projects/contributions/autoschool_market/</loc>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/projects/contributions/schema-org/</loc>
-    <lastmod>2020-01-07T17:08:21+00:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/docker/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/javascript/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/json/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/node.js/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/rest-apis/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/projects/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
+    <lastmod>2020-01-07T16:49:15+00:00</lastmod>
     <priority>0.9</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/atlassian-ecosystem/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/bosh/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/projects/creations/bosh-agents/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/devops/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/java/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/monit/</loc>
+    <loc>https://example.com/tags/powerbi/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/python/</loc>
+    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/sql/</loc>
+    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/projects/creations/ds/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url>
   
@@ -137,6 +85,11 @@
   
   <url>
     <loc>https://example.com/tags/culture/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/devops/</loc>
     <lastmod>2016-11-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -176,19 +129,11 @@
   </url>
   
   <url>
-    <loc>https://example.com/projects/creations/marketplace/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/bamboo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/bash/shell/</loc>
-  </url>
-  
-  <url>
     <loc>https://example.com/tags/ci/cd-pipelines/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/dax/</loc>
   </url>
   
   <url>
@@ -196,11 +141,7 @@
   </url>
   
   <url>
-    <loc>https://example.com/tags/jquery/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/powerbi/</loc>
+    <loc>https://example.com/tags/powerquery/</loc>
   </url>
   
   <url>
@@ -213,11 +154,15 @@
   </url>
   
   <url>
-    <loc>https://example.com/tags/xml/xslt/</loc>
+    <loc>https://example.com/tags/%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/projects/creations/docker-marketplace/</loc>
+    <loc>https://example.com/projects/creations/powerbi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/projects/creations/first_steps/</loc>
   </url>
   
 </urlset>
