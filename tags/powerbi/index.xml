@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PowerBI on Анастасия Сухоносенко</title>
+    <link>https://example.com/tags/powerbi/</link>
+    <description>Recent content in PowerBI on Анастасия Сухоносенко</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-rus</language><atom:link href="https://example.com/tags/powerbi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1.Проекты Power BI</title>
+      <link>https://example.com/projects/creations/marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/creations/marketplace/</guid>
+      <description>👀Введение В Power BI портфолио собраны кейсы использования Power BI для автоматизации процессов создания отчетов: Ниже приведен набор навыков и знаний приведены необходимый для успешного использования PowerBI:
+ Бизнес-анализ (сбор и анализ требований); ETL с помощью power query и sql; Препроцессинг данных и EDA; Обогащение данные с поиощью DAX для доп мер и столбцов, создание пользовательских таблиц, отношений; Создание модели данных; Визуализация данных; настройка RLS; настройка обновлений, подключение шлюза; Настройка панели мониторинга, подписок.</description>
+    </item>
+    
+  </channel>
+</rss>

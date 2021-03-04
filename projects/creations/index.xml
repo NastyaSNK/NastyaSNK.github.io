@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Инструменты анализа данных on Анастасия Сухоносенко</title>
+    <link>https://example.com/projects/creations/</link>
+    <description>Recent content in Инструменты анализа данных on Анастасия Сухоносенко</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-rus</language>
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://example.com/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BOSH release for Bamboo &amp; Remote Agents</title>
+      <link>https://example.com/projects/creations/bosh-agents/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://example.com/projects/creations/bosh-agents/</guid>
+      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip;is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
+    </item>
+    
+    <item>
+      <title>1.Проекты Power BI</title>
+      <link>https://example.com/projects/creations/marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/creations/marketplace/</guid>
+      <description>👀Введение В Power BI портфолио собраны кейсы использования Power BI для автоматизации процессов создания отчетов: Ниже приведен набор навыков и знаний приведены необходимый для успешного использования PowerBI:
+ Бизнес-анализ (сбор и анализ требований); ETL с помощью power query и sql; Препроцессинг данных и EDA; Обогащение данные с поиощью DAX для доп мер и столбцов, создание пользовательских таблиц, отношений; Создание модели данных; Визуализация данных; настройка RLS; настройка обновлений, подключение шлюза; Настройка панели мониторинга, подписок.</description>
+    </item>
+    
+    <item>
+      <title>Два первых проекта, когда я еще не знала об анализе данных и data science.</title>
+      <link>https://example.com/projects/creations/docker-marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/creations/docker-marketplace/</guid>
+      <description>Первые шаги в анализе данных я начала делать «неосознанно» на моей первой работе по специальности. Задача была простейшая – агрегировать данные о газопроводах сислемы подготовки и оочистки газа, после его добычи. Сбор данных осуществлялся «ручным» способом. Результатом стали «ненормализованные» таблицы с данными о длине и высотной отметке газопровода.
+В процессе сбора захотелось эти данные визуализировать. Для этого был написан макрос на VBA, который помогал из разрозненных таблиц строить график профиля газопровода в зависимости от выбранных параметров.</description>
+    </item>
+    
+  </channel>
+</rss>

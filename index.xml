@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Анастасия Сухоносенко</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Home on Анастасия Сухоносенко</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-rus</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atlassian Deployment Triggers</title>
+      <link>https://example.com/projects/contributions/deploy-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/contributions/deploy-triggers/</guid>
+      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+    </item>
+    
+    <item>
+      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
+      <link>https://example.com/publications/alldaydevops/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/alldaydevops/</guid>
+      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
+ Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
+    </item>
+    
+    <item>
+      <title>Added Docker Build Status Badge to shields.io</title>
+      <link>https://example.com/projects/contributions/shields-docker/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://example.com/projects/contributions/shields-docker/</guid>
+      <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
+    </item>
+    
+    <item>
+      <title>Schema.org Structured Data documentation fixes</title>
+      <link>https://example.com/projects/contributions/schema-org/</link>
+      <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
+      
+      <guid>https://example.com/projects/contributions/schema-org/</guid>
+      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
+    </item>
+    
+    <item>
+      <title>BOSH release for Bamboo &amp; Remote Agents</title>
+      <link>https://example.com/projects/creations/bosh-agents/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://example.com/projects/creations/bosh-agents/</guid>
+      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip;is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
+    </item>
+    
+    <item>
+      <title>Forcing Visits to use SSL</title>
+      <link>https://example.com/blog/force-ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://example.com/blog/force-ssl/</guid>
+      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
+ First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
+    </item>
+    
+    <item>
+      <title>1.Проекты Power BI</title>
+      <link>https://example.com/projects/creations/marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/creations/marketplace/</guid>
+      <description>👀Введение В Power BI портфолио собраны кейсы использования Power BI для автоматизации процессов создания отчетов: Ниже приведен набор навыков и знаний приведены необходимый для успешного использования PowerBI:
+ Бизнес-анализ (сбор и анализ требований); ETL с помощью power query и sql; Препроцессинг данных и EDA; Обогащение данные с поиощью DAX для доп мер и столбцов, создание пользовательских таблиц, отношений; Создание модели данных; Визуализация данных; настройка RLS; настройка обновлений, подключение шлюза; Настройка панели мониторинга, подписок.</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://example.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+    <item>
+      <title>Два первых проекта, когда я еще не знала об анализе данных и data science.</title>
+      <link>https://example.com/projects/creations/docker-marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/creations/docker-marketplace/</guid>
+      <description>Первые шаги в анализе данных я начала делать «неосознанно» на моей первой работе по специальности. Задача была простейшая – агрегировать данные о газопроводах сислемы подготовки и оочистки газа, после его добычи. Сбор данных осуществлялся «ручным» способом. Результатом стали «ненормализованные» таблицы с данными о длине и высотной отметке газопровода.
+В процессе сбора захотелось эти данные визуализировать. Для этого был написан макрос на VBA, который помогал из разрозненных таблиц строить график профиля газопровода в зависимости от выбранных параметров.</description>
+    </item>
+    
+  </channel>
+</rss>
