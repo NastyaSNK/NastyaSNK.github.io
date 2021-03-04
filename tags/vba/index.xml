@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VBA on Анастасия Сухоносенк</title>
+    <link>http://suhonosenko.me/tags/vba/</link>
+    <description>Recent content in VBA on Анастасия Сухоносенк</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-rus</language><atom:link href="http://suhonosenko.me/tags/vba/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проекты, когда я еще не знала об анализе данных и data science</title>
+      <link>http://suhonosenko.me/projects/creations/first_steps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://suhonosenko.me/projects/creations/first_steps/</guid>
+      <description>Первые шаги в анализе данных я начала делать «неосознанно» на моей первой работе по специальности. Задача была простейшая – агрегировать данные о газопроводах системы подготовки и очистки газа, после его добычи. Сбор данных осуществлялся «ручным» способом. Результатом стали «ненормализованные» таблицы с данными о длине и высотной отметке газопровода.
+Рис. 1 Пример таблицы с данными
+В процессе сбора захотелось эти данные визуализировать. Для этого был написан макрос на VBA, который помогал из разрозненных таблиц строить график профиля газопровода в зависимости от выбранных параметров.</description>
+    </item>
+    
+  </channel>
+</rss>

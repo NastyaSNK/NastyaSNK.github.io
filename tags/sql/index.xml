@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on Анастасия Сухоносенк</title>
+    <link>http://suhonosenko.me/tags/sql/</link>
+    <description>Recent content in SQL on Анастасия Сухоносенк</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-rus</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="http://suhonosenko.me/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Интеллектуальный анализ</title>
+      <link>http://suhonosenko.me/projects/creations/ds/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>http://suhonosenko.me/projects/creations/ds/</guid>
+      <description>Кластеризация тем и заданий курсов подготовки к егэ Цель инструмента: Определить какие темы/задания решаются более успешно, какие - менее успешно.
+На рисунке ниже схема работы итогового решения:
+Рис. 1 Схема работы итогового решения
+Python использовался для отправки SQL запрос к системе-источнику и проведения кластеризации, PowerBi для визуализации результатов. Автоматизировался запуск скриптов через планировщик задач.
+
+В данном демо кластеризация выполнена на 2 показателях:
+для тем:
+ доля верных тестов от плана доля верных тестов из решеных  для тестов:</description>
+    </item>
+    
+  </channel>
+</rss>
