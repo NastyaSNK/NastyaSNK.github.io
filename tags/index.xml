@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Анастасия Сухоносенк</title>
+    <title>Tags on Анастасия Сухоносенко</title>
     <link>http://suhonosenko.me/tags/</link>
-    <description>Recent content in Tags on Анастасия Сухоносенк</description>
+    <description>Recent content in Tags on Анастасия Сухоносенко</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-rus</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="http://suhonosenko.me/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -76,51 +76,6 @@
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>http://suhonosenko.me/tags/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>apache</title>
-      <link>http://suhonosenko.me/tags/apache/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>http://suhonosenko.me/tags/apache/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>redirect</title>
-      <link>http://suhonosenko.me/tags/redirect/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>http://suhonosenko.me/tags/redirect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rewrite</title>
-      <link>http://suhonosenko.me/tags/rewrite/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>http://suhonosenko.me/tags/rewrite/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ssl</title>
-      <link>http://suhonosenko.me/tags/ssl/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>http://suhonosenko.me/tags/ssl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>web development</title>
-      <link>http://suhonosenko.me/tags/web-development/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>http://suhonosenko.me/tags/web-development/</guid>
       <description></description>
     </item>
     
