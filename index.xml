@@ -24,7 +24,7 @@
       
       <guid>http://suhonosenko.me/projects/contributions/autoschool_market/</guid>
       <description>В сентябре 2020 ко мне обратилась компания Центр транспортных технологий, которая планировала расширить бизнес - открыть автошколу. Для того, чтобы понять насколько перспективно этим заниматься, было выполнено исследование текущего состояния рынка автошкол в России:
- тенденции рынка автошкол, основные участники, конкуренты в г. Химки Московской области конкуренты, которые занимаются автоматизацией деятельности автошкол потребители.  Повезло, что у ГИБДД есть портал, где собрано огромное количество данных, касающихся обстановки на дороге.
+ тенденции рынка автошкол, основные участники, конкуренты в г. Химки Московской области, конкуренты, которые занимаются автоматизацией деятельности автошкол, потребители.  Повезло, что у ГИБДД есть портал, где собрано огромное количество данных, касающихся обстановки на дороге.
 Выжимка из исследования ниже.</description>
     </item>
     
@@ -41,7 +41,17 @@ Python использовался для отправки SQL запрос к с
 
 В данном демо кластеризация выполнена на 2 показателях:
 для тем:
- доля верных тестов от плана доля верных тестов из решеных  для тестов:</description>
+ доля верных тестов от плана доля верных тестов из решенных  для тестов:</description>
+    </item>
+    
+    <item>
+      <title>Forcing Visits to use SSL</title>
+      <link>http://suhonosenko.me/blog/force-ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>http://suhonosenko.me/blog/force-ssl/</guid>
+      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
+ First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
     </item>
     
     <item>
