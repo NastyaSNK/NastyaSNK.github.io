@@ -8,6 +8,16 @@
     <language>en-rus</language>
     <lastBuildDate>Tue, 07 Jan 2020 16:49:15 +0000</lastBuildDate><atom:link href="http://suhonosenko.me/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Исследование алгоритмов кластеризации для анализа изображений траспортных средств</title>
+      <link>http://suhonosenko.me/projects/contributions/img_vehicle_clustering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://suhonosenko.me/projects/contributions/img_vehicle_clustering/</guid>
+      <description>С 2020 года я обучаюсь в магистратуре НИТУ МИСИС по программе &amp;ldquo;Наука о данных&amp;rdquo;, в рамках которой в марте 2021 был организован хакатон. Для постановки задач пригласили 5 компаний и их представителей. Я работала на кейсом от компании Intellivision.
+Задача В качестве исходных данных предоставлены изображения транспортных средств разных типов, цветов, ракурсов и деталей. Предоставленные массивы данных(дескриптора) получены из промежуточного слоя нейронной сети. Варианты дескрипторов, полученные с помощью глубокого обучения - исходными данными для дальнейшей кластеризации: color_model, osnet, efficientnet-b7, type_model.</description>
+    </item>
+    
+    <item>
       <title>Исследование рынка автошкол РФ 2020</title>
       <link>http://suhonosenko.me/projects/contributions/autoschool_market/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
