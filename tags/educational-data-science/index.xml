@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Научные статьи on Анастасия Сухоносенко</title>
-    <link>http://suhonosenko.me/publications/</link>
-    <description>Recent content in Научные статьи on Анастасия Сухоносенко</description>
+    <title>Educational data science on Анастасия Сухоносенко</title>
+    <link>http://suhonosenko.me/tags/educational-data-science/</link>
+    <description>Recent content in Educational data science on Анастасия Сухоносенко</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-rus</language>
-    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://suhonosenko.me/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://suhonosenko.me/tags/educational-data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ОЦЕНКА КАЧЕСТВА ОБРАЗОВАТЕЛЬНОГО ПРОЦЕССА НА ОСНОВЕ ДАННЫХ В ЭПОХУ EDUCATION 4.0</title>
       <link>http://suhonosenko.me/publications/alldaydevops/</link>
